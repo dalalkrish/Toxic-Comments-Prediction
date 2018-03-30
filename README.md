@@ -2,7 +2,7 @@
 
 This is an attempt to solve Kaggle challenge of Toxic Comment Prediction posted by Jigsaw. 
 
-##Application Highlights:
+###Application Highlights:###
 
 - I used Keras's Sequential rnn model with LSTM cells to make multi class predictions with Tensorflow as backend.
 
